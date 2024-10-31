@@ -2,5 +2,9 @@
 using namespace std;
 int main(){
     int n=7;
-    cout<<n;
+    if(n>0){
+        cout<<"yes";
+    }else{
+        cout<<"no";
+    }
 }
