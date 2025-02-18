@@ -5,6 +5,6 @@ int main(){
     if(n>0){
         cout<<"yes";
     }else{
-        cout<<"no";
+        cout<<"nope";
     }
 }
